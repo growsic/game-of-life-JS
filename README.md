@@ -15,17 +15,6 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 ## Usage
 put 'index.html' and 'gameOfLife.js' in the same repository.
 
-
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
