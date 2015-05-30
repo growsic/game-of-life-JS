@@ -14,7 +14,7 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 
 ## Usage
 put 'index.html' and 'gameOfLife.js' in the same repository.
+You don't need to include jquery file.
 
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
