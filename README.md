@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${Game of Life}
+  <content>
+#Game of Life
 I've implemented Game of Life by JavaScript
 
 
